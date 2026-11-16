@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+prompt_presets.json
+prompt_presets.json.tmp
+.venv/
+.DS_Store

@@ -1,0 +1,6 @@
+{
+  "Default": {
+    "positive": "best quality, amazing quality, very aesthetic, absurdres",
+    "negative": "worst quality, low quality, lowres, blurry, bad anatomy"
+  }
+}
