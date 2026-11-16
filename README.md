@@ -5,6 +5,8 @@ two `CONDITIONING` streams. It is aimed at workflows where you juggle many promp
 saved in a plain JSON file, edits auto-save, and the node shows how many tokens each field really
 costs for Anima's text encoder.
 
+![Prompt Presets node](docs/screenshot.png)
+
 ## Features
 
 - **Named presets** for positive + negative prompts, stored in `prompt_presets.json` next to the node.
